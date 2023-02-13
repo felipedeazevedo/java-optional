@@ -1,0 +1,10 @@
+package com.felipe.optional;
+
+public class Exemplo2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
